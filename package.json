@@ -1,0 +1,19 @@
+{
+  "name": "npm-satatic-site-boilerplate",
+  "version": "1.0.0",
+  "description": "create static app with latest technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apt-get2Update/npm-static-app-boilerplate.git"
+  },
+  "author": "thirumurugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apt-get2Update/npm-static-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/apt-get2Update/npm-static-app-boilerplate#readme"
+}
